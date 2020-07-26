@@ -1,23 +1,25 @@
-# 👋 Hi, I'm Andrea Mastrantoni
+<img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="160px" width="auto">
 
-###### Quick rundown on me
->   💻 Full-stack Software Engineer 
->    ✈️ Wannabe Globetrotter 
->   📖 Avid Reader
->   🎮 Video/Board Game Enthusiast
->   🎲 D&D Newbie
->   🏠 Previously Framer/Rough Carperter
+<h1 align="left"> 👋 Hi, I'm <strong>Andrea Mastrantoni</strong></h1>
 
-<img src="https://github.com/andmast/andmast/blob/master/design.gif" width="100px"> Former Graphic Designer
->   📺 Tv/Movie Buff 
-
-I am a passionate full-stack software Engineer from 🏠 Toronto, Cananda.
+A passionate 💻 full-stack software Engineer from 🏠 Toronto, Cananda.
 
 I always look to exceed expectations and am an effective both working as an individual and as part of a team. I’m am alwayls looking for a collaborative team that will challenge me to learn new skills and help me make an impact. 
 
+<details align="center">
+    <summary>😁 Fun facts about me 😁</summary>
+        <p>✈️ Wannabe Globetrotter</p>
+        <p>📖 Avid Reader</p>
+        <p>🎮 Video/Board Game Enthusiast</p>
+        <p>🎲 D&D Newbie</p>
+        <p>🏠 Previously Framer/Rough Carperter</p>
+        <p>💎 Former Graphic Designer</p>
+        <p>📺 Tv/Movie Buff </p>
+</details>
+
 ##  🎉 Skills  🎉
 
-<img src="https://github.com/andmast/andmast/blob/master/coder.gif">
+
 
 ___
 
