@@ -1,5 +1,5 @@
 <div>
-    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="80px" width="auto">
+    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="75px" width="auto">
     <h1 align="left"> 👋 Hi, I'm <strong>Andrea Mastrantoni</strong></h1>
 </div>
 
@@ -7,7 +7,7 @@
 ### About me
 A passionate 💻 full-stack software engineer from 🏠 Toronto, Cananda.
 
-I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm looking for new challenges, learning new skills, and having a positive attitude. 
+I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm looking for new challenges, learning new skills, and keeping a positive attitude. 
 
 <details>
     <summary>😁 Fun facts 😁</summary>
