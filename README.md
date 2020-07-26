@@ -15,6 +15,6 @@
 
 <p align="center">
 <a href="https://dev.to/andmast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="andmast" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/andrea mastrantoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea mastrantoni" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/andrea-mastrantoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea mastrantoni" height="20" width="20" /></a>
 <a href="https://medium.com/@anmastrantoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anmastrantoni" height="20" width="20" /></a>
 </p>
