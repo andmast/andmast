@@ -1,16 +1,16 @@
 <div>
-    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="50px" width="auto">
+    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="80px" width="auto">
     <h1 align="left"> 👋 Hi, I'm <strong>Andrea Mastrantoni</strong></h1>
 </div>
 
 ---
+### About me
+A passionate 💻 full-stack software engineer from 🏠 Toronto, Cananda.
 
-A passionate 💻 full-stack software Engineer from 🏠 Toronto, Cananda.
-
-I always look to exceed expectations and am an effective both working as an individual and as part of a team. I’m am alwayls looking for a collaborative team that will challenge me to learn new skills and help me make an impact. 
+I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm looking for new challenges, learning new skills, and having a positive attitude. 
 
 <details>
-    <summary>😁 Fun facts about me 😁</summary>
+    <summary>😁 Fun facts 😁</summary>
         <p>✈️ Wannabe Globetrotter</p>
         <p>📖 Avid Reader</p>
         <p>🎮 Video/Board Game Enthusiast</p>
@@ -21,6 +21,7 @@ I always look to exceed expectations and am an effective both working as an indi
 </details>
 
 ##  🎉 Skills  🎉
+
 
 ## ⚡ Stats ⚡ 
 ![Andrea Github Stats](https://andmast-github-stats.vercel.app/api?username=andmast&show_icons=true&count_private=true&hide=contribs,issues,prs&theme=gruvbox)
