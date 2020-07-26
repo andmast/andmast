@@ -16,7 +16,7 @@ I always look to exceed expectations and an am effective both working as an indi
 
 ##  🎉 Skills  🎉
 
-<img src="https://github.com/andmast/andmast/blob/master/coder.gif" width="29px">
+<img src="https://github.com/andmast/andmast/blob/master/coder.gif">
 
 ___
 
