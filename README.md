@@ -3,5 +3,6 @@
 
 <details>
     <summary>GitHub Stats</summary>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andmast&show_icons=true" alt="andmast" /> </p>
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=andmast&show_icons=true&theme=gruvbox" alt="andmast Github Stats" /> *</p>
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andmast&layout=compact" alt="andmast Top Languages" /> *</p>
 </details>
