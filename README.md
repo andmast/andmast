@@ -24,15 +24,15 @@ I always look to exceed expectations and am effective both working as an individ
 ```javascript
 export default const SKILLS = {
     codeIn: [
-         Javascript, HTML, 
-         CSS, Ruby 
+        Javascript, HTML, 
+        CSS, Ruby 
     ],
     tools: [
         React, Redux, Node, Ajax 
         Storybook,  Styled-Components, 
         Jest,  Rails, Rspec, Express,
-        Bootstrap, jQuery , Formik , 
-        Redux-Form , Material-UI ,  Semantic-UI 
+        Bootstrap, jQuery, Formik, 
+        Redux-Form, Material-UI, Semantic-UI 
     ],
     dataBases: [
         MongoDB, SQL, ActiveRecord 
