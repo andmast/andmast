@@ -22,23 +22,25 @@ I always look to exceed expectations and am effective both working as an individ
 
 ##  🎉 Skills  🎉
 ```javascript
-    const SKILLS = {
-        CODE: [
-            "Javascript","HTML", 
-            "CSS", "Ruby", 
-        ],
-        TOOLS: [
-                "React", "Redux", "Node", 
-                "Storybook", "Styled-Components", 
-                "Jest", "Rails", "Rspec",
-        ],
-        databases: [
-                "MongoDB", "SQL"
-        ],
-        CMS: [
-                "Git"
-        ]
-    }
+export const SKILLS = {
+    CODE: [
+        "Javascript","HTML", 
+        "CSS", "Ruby", 
+    ],
+    TOOLS: [
+            "React", "Redux", "Node", 
+            "Storybook", "Styled-Components", 
+            "Jest", "Rails", "Rspec", "jQuery"
+            "Express", "Bootstrap", "Semantic UI"
+            "Material UI"
+    ],
+    DATABASES: [
+            "MongoDB", "SQL", "ActiveRecord"
+    ],
+    CMS: [
+            "Git"
+    ]
+}
 
 ```
 
