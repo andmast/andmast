@@ -1,5 +1,5 @@
 <div>
-    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="75px" width="auto">
+    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="70px" width="auto">
     <h1 align="left"> 👋 Hi, I'm <strong>Andrea Mastrantoni</strong></h1>
 </div>
 
@@ -21,7 +21,26 @@ I always look to exceed expectations and am effective both working as an individ
 </details>
 
 ##  🎉 Skills  🎉
+```javascript
+    const SKILLS = {
+        CODE: [
+            "Javascript","HTML", 
+            "CSS", "Ruby", 
+        ],
+        TOOLS: [
+                "React", "Redux", "Node", 
+                "Storybook", "Styled-Components", 
+                "Jest", "Rails", "Rspec",
+        ],
+        databases: [
+                "MongoDB", "SQL"
+        ],
+        CMS: [
+                "Git"
+        ]
+    }
 
+```
 
 ## ⚡ Stats ⚡ 
 ![Andrea Github Stats](https://andmast-github-stats.vercel.app/api?username=andmast&show_icons=true&count_private=true&hide=contribs,issues,prs&theme=gruvbox)
