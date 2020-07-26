@@ -7,7 +7,7 @@
 ### About me
 A passionate 💻 full-stack software engineer from 🏠 Toronto, Cananda.
 
-I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm looking for new challenges, learning new skills, and keeping a positive attitude. 
+I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm always up for new challenges, learning new skills, and keeping a positive attitude. 
 
 <details>
     <summary>😁 Fun facts 😁</summary>
@@ -15,36 +15,41 @@ I always look to exceed expectations and am effective both working as an individ
         <p>📖 Avid Reader</p>
         <p>🎮 Video/Board Game Enthusiast</p>
         <p>🎲 D&D Newbie</p>
-        <p>🏠 Previously Framer/Rough Carperter</p>
+        <p>🏠 Previously Framer/Rough Carpenter</p>
         <p>💎 Former Graphic Designer</p>
         <p>📺 Tv/Movie Buff </p>
 </details>
 
-##  🎉 Skills  🎉
+###  🎉 Skills  🎉
 ```javascript
 export const SKILLS = {
-    CODE: [
+    codeIn: [
         "Javascript","HTML", 
-        "CSS", "Ruby", 
+        "CSS", "Ruby"
     ],
-    TOOLS: [
-            "React", "Redux", "Node", 
-            "Storybook", "Styled-Components", 
-            "Jest", "Rails", "Rspec", "jQuery"
-            "Express", "Bootstrap", "Semantic UI"
-            "Material UI"
+    tools: [
+        "React", "Redux", "Node", "Ajax"
+        "Storybook", "Styled-Components", 
+        "Jest", "Rails", "Rspec", 
+        "Express", "Bootstrap", "jQuery",
+        "Formik", "Redux-Form",
+        "Material UI", "Semantic UI"
     ],
-    DATABASES: [
-            "MongoDB", "SQL", "ActiveRecord"
+    dataBases: [
+        "MongoDB", "SQL", "ActiveRecord"
     ],
-    CMS: [
-            "Git"
+    cms: [
+        "Git"
+    ]
+    learning: [
+        "React Native", "Unity", "TypeScript"
+        "React-Hook-Form", "React-Final-Form"
     ]
 }
 
 ```
 
-## ⚡ Stats ⚡ 
+### ⚡ Stats ⚡ 
 ![Andrea Github Stats](https://andmast-github-stats.vercel.app/api?username=andmast&show_icons=true&count_private=true&hide=contribs,issues,prs&theme=gruvbox)
-![Andrea Github Stats](https://andmast-github-stats.vercel.app/api/top-langs/?username=andmast&hide=html&theme=gruvbox)
+![Andrea Top-Languages](https://andmast-github-stats.vercel.app/api/top-langs/?username=andmast&hide=html&theme=gruvbox)
 
