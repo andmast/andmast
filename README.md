@@ -7,7 +7,8 @@
 >   🎮 Video/Board Game Enthusiast
 >   🎲 D&D Newbie
 >   🏠 Previously Framer/Rough Carperter
->   <img src="https://github.com/andmast/andmast/blob/master/design.gif" width="100px"> Former Graphic Designer
+
+<img src="https://github.com/andmast/andmast/blob/master/design.gif" width="100px"> Former Graphic Designer
 >   📺 Tv/Movie Buff 
 
 I am a passionate full-stack software Engineer from 🏠 Toronto, Cananda.
