@@ -1,16 +1,13 @@
-<div>
-    <img  align="right" src="https://github.com/andmast/andmast/blob/master/coder.gif" height="70px" width="auto">
-    <h1 align="left"> 👋 Hi, I'm <strong>Andrea Mastrantoni</strong></h1>
-</div>
 
----
+# 👋 Hi, I'm Andrea Mastrantoni
+
 ### About me
-A passionate 💻 full-stack software engineer from 🏠 Toronto, Cananda.
+A passionate full-stack software engineer from Toronto, Canada.
 
 I always look to exceed expectations and am effective both working as an individual and as part of a team. I'm always up for new challenges, learning new skills, and keeping a positive attitude. 
 
 <details>
-    <summary>😁 Fun facts 😁</summary>
+    <summary>Fun facts </summary>
         <p>✈️ Wannabe Globetrotter</p>
         <p>📖 Avid Reader</p>
         <p>🎮 Video/Board Game Enthusiast</p>
@@ -20,7 +17,7 @@ I always look to exceed expectations and am effective both working as an individ
         <p>📺 Tv/Movie Buff </p>
 </details>
 
-###  🎉 Skills  🎉
+### Skills
 ```javascript
 export default const SKILLS = {
     codeIn: [
@@ -47,11 +44,11 @@ export default const SKILLS = {
 }
 ```
 
-### ⚡ Stats ⚡ 
+### Stats 
 ![Andrea Github Stats](https://andmast-github-stats.vercel.app/api?username=andmast&show_icons=true&count_private=true&hide=contribs,issues,prs&theme=onedark)
 ![Andrea Top-Languages](https://andmast-github-stats.vercel.app/api/top-langs/?username=andmast&hide=html&theme=onedark)
 
-#### 🔍 Where to find me
+#### Where to find me
 <p>
     <a href="https://github.com/andmast" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
