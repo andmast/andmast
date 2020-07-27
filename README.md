@@ -8,13 +8,13 @@ I always look to exceed expectations and am effective both working as an individ
 
 <details>
     <summary>Fun facts </summary>
-        <p>✈️ - Wannabe Globetrotter</p>
-        <p>📖 - Avid Reader</p>
-        <p>🎮 - Video/Board Game Enthusiast</p>
-        <p>🎲 - D&D Newbie</p>
-        <p>🏠 - Previously Framer/Rough Carpenter</p>
-        <p>💎 - Former Graphic Designer</p>
-        <p>📺 - Tv/Movie Buff </p>
+        <p>✈️ –– Wannabe Globetrotter</p>
+        <p>📖 –– Avid Reader</p>
+        <p>🎮 –– Video/Board Game Enthusiast</p>
+        <p>🎲 –– D&D Newbie</p>
+        <p>🏠 –– Previously Framer/Rough Carpenter</p>
+        <p>💎 –– Former Graphic Designer</p>
+        <p>📺 –– Tv/Movie Buff </p>
 </details>
 
 ### Skills
