@@ -36,7 +36,7 @@ export default const SKILLS = {
     ],
     cms: [
         Git 
-    ]
+    ],
     learning: [
         React Native, Unity, TypeScript 
         React-Hook-Form, React-Final-Form 
