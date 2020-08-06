@@ -47,7 +47,8 @@ export default const SKILLS = {
     ],
     learning: [
         React Native, Unity, TypeScript 
-        React-Hook-Form, React-Final-Form 
+        React-Hook-Form, React-Final-Form, 
+        Vue.js
     ]
 }
 ```
