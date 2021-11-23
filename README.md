@@ -52,7 +52,3 @@ export default const SKILLS = {
     ]
 }
 ```
-
-#### Stats 
-![Andrea Github Stats](https://andmast-github-stats.vercel.app/api?username=andmast&show_icons=true&count_private=true&hide=contribs,issues,prs&theme=onedark)
-![Andrea Top-Languages](https://andmast-github-stats.vercel.app/api/top-langs/?username=andmast&hide=html&theme=onedark)
