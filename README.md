@@ -52,4 +52,4 @@ export default const SKILLS = {
     ]
 }
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=andmast)](https://github.com/andmast/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andmast&theme=onedark)](https://github.com/andmast/github-profile-trophy)
